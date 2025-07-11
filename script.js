@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     // Menu hamburger para mobile
     const hamburger = document.querySelector('.hamburger');
